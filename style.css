@@ -1,0 +1,52 @@
+body {
+    background-color: #011627;
+    color: #FDFFFC;
+    font-family: 'Noto Serif', serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #48FB47;
+}
+
+ol {
+    width: 100px;
+}
+
+.links {
+    text-decoration: none;
+    color: #2EC4B6;
+    transition: .25s;
+}
+
+.links:hover {
+    text-decoration: underline;
+    color: #FF9F1C;
+}
+  
+img {
+    border: 2px solid #48FB47;
+    border-radius: 50%;
+    width: 275px;
+}
+
+.oblique {
+    font-style: oblique;
+    font-weight: 700;
+    color: #48FB47;
+}
+
+.greatest-size {
+    font-size: 1.3em;
+    color: #48FB47;
+}
+
+.greater-size {
+    font-size: 1.2em;
+}
+
+.great-size {
+    font-size: 1.1em;
+}
